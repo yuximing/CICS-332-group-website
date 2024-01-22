@@ -24,7 +24,7 @@ export default function Home() {
       
       <div className="flex flex-col text-left">
         <div
-          className="rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-neutral-200 hover:bg-neutral-100"
+          className="rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-neutral-300 hover:bg-neutral-200"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
             A1. Conceptual Architecture
@@ -35,7 +35,7 @@ export default function Home() {
         </div>
 
         <div
-          className="rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-neutral-200 hover:bg-neutral-100"
+          className="rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-neutral-300 hover:bg-neutral-200"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
             A2. Concrete Architecture
@@ -46,7 +46,7 @@ export default function Home() {
         </div>
 
         <div
-          className="rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-neutral-200 hover:bg-neutral-100"
+          className="rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-neutral-300 hover:bg-neutral-200"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
             A3. Architectural Enhancement
