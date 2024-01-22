@@ -15,16 +15,11 @@ export default function Home() {
         />
       </div>
       
-      <div className={`mb-10 text-2xl font-semibold`}>
-        <p>
-          Group 4: [group name]
-          <br></br>
-          Group leader: xxx
-          <br></br>
-          Presenters: xxx, xxx
-          <br></br>
-          Members: xxx, xxx, xxx
+      <div className={`flex flex-col items-center mb-10`}>
+        <p className="text-3xl font-semibold">
+          Group 4 - Chicken AI
         </p>
+        <p className={`m-0 max-w-100vw text-base opacity-50 pt-5`}>Abbey Cameron | Akash Singh | Derek Youngman | Marion Anglin | Shrinidhi Thatahngudi Sampath Krishnan | Ximing Yu</p>
       </div>
       
       <div className="flex flex-col text-left">
