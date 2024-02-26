@@ -30,7 +30,7 @@ export default function Home() {
             A1. Conceptual Architecture
           </h2>
           <p className={`m-0 max-w-[30ch] text-base opacity-50`}>
-            <a href="#" className="no-underline hover:underline">report</a>, <a href="#" className="no-underline hover:underline">slides</a> and <a href="#" className="no-underline hover:underline">presentation</a>
+            <a href="/files/a1_report.pdf" className="no-underline hover:underline">report</a>, <a href="/files/a1_slides.pdf" className="no-underline hover:underline">slides</a> and <a href="https://www.youtube.com/watch?v=QLIAXT6_UuA" className="no-underline hover:underline">presentation</a>
           </p>
         </div>
 
