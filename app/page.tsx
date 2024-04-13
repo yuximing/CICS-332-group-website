@@ -55,7 +55,7 @@ export default function Home() {
             A3. Architectural Enhancement
           </h2>
           <p className={`m-0 max-w-[30ch] text-base opacity-50`}>
-            <a href="#" className="no-underline hover:underline">report</a>, <a href="#" className="no-underline hover:underline">slides</a> and <a href="#" className="no-underline hover:underline">presentation</a>
+            <a href="/files/a3_report.pdf" className="no-underline hover:underline">report</a>, <a href="/files/a3_slides.pdf" className="no-underline hover:underline">slides</a> and <a href="https://www.youtube.com/watch?v=OVMbq25nKvI" className="no-underline hover:underline">presentation</a>
           </p>
         </div>
       </div>
